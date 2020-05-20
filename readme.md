@@ -1,5 +1,5 @@
 # Mizuxe Book Release
-![title-pic](responsive.png)
+![title-pic](responsive1.png)
 
 Responsive Website showcasing an upcoming best selling book
 
