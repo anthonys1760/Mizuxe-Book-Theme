@@ -1,4 +1,4 @@
-# Mizuxe Book Theme
+# Mizuxe Book Release
 ![title-pic]()
 
 Responsive Website showcasing an upcoming best selling book
