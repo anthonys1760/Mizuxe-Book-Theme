@@ -1,5 +1,5 @@
 # Mizuxe Book Release
-![title-pic]()
+![title-pic](responsive.png)
 
 Responsive Website showcasing an upcoming best selling book
 
@@ -13,7 +13,7 @@ Responsive Website showcasing an upcoming best selling book
 ## Steps to execute this Website:
 - Download the entire code 
 - Open up the index.html.
-- [View Live Site]()
+- [View Live Site](https://anthonys1760.github.io/Mizuxe-Book-Theme/)
 
 ## Technologies used: 
 - HTML
